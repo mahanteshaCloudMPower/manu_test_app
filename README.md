@@ -1,1 +1,0 @@
-# manu_test_app
