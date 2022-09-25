@@ -1,4 +1,4 @@
-package com.mahi.manuapp
+package com.mahi.bday
 
 import org.junit.Test
 
